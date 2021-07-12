@@ -19,6 +19,8 @@ Original article written here: https://4o4n0tf0und.tech/?p=45
 
 <p>You’re probably thinking, “Okay, sounds cool, but how much does it cost?” Unlike most cyber security online training platforms that cost hundreds or even thousands of dollars, THM is nearly free. At this moment, there are 390 publicly accessible rooms. Of those, 310 are free! About <b>80% of the content is completely free</b> and only requires an account. You read that right, no subscription or payment, or “type in your credit card to continue” is necessary to learn 80% of the available content. Like me, if you want to dabble into the 20% of the rooms that require a subscription, no worries – it is crazy affordable. Depending on where you live and when you read this, the price may change. I doubt it will change much though, if at all, because I have been a subscriber for almost 2 years now and the price has not changed at all. If you are US based, you have 2 options: monthly for $10 or yearly for $90. Neither option requires any contracts. So, if you want to do monthly for two months, then unsubscribe, you can, and the process is literally a click. I’ve done it myself and it is that simple. Zero hassle. Bonus: I believe they have a student discount too, which requires verification, so check that out if you are one.</p>
 
+<img src="https://raw.githubusercontent.com/derp-Dude/writeups/main/image_yeah_right.png">
+
 <p>Reading all of that, you’re probably thinking the same thing I thought when I did my research originally – no way! Actually YES way. Don’t take my word for it. A quick google search will show a plethora of resources on reddit, medium, twitter, blogs, you name it that tells you exactly what I told you above.</p>
 
 <p>If you aren’t convinced yet, no problem. Let’s break down some of the specific features THM platform has to offer…</p>
@@ -26,6 +28,8 @@ Original article written here: https://4o4n0tf0und.tech/?p=45
 <h2>LEARNING PATHS</h2>
 
 <p>THM has something they refer to as Learning Paths. Basically, a learning path is filled with a certain number of rooms that cover topics under a specific umbrella, like Offensive Pentesting or Cyber Defense. Looking below, you can see all the learning paths they currently offer. Some rooms belong to multiple learning paths and some rooms don’t belong to any path. The cool thing about a learning path is that it recommends specific rooms for that topics and it helps keep you on track. You can also jump between paths if you change your mind. Let’s check the Pre Security learning path.</p>
+
+<img src="https://raw.githubusercontent.com/derp-Dude/writeups/main/image_learning_paths.png">
 
 <h2>PRE SECURITY PATH</h2>
 

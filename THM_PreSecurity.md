@@ -1,4 +1,4 @@
-Original article written here: https://4o4n0tf0und.tech/?p=45
+Original article written at my <a href="https://4o4n0tf0und.tech/?p=45">website</a>
 
 <h1>Begin your cyber security adventure with TryHackMe’s Pre Security Learning Path</h1>
 

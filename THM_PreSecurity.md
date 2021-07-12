@@ -1,34 +1,37 @@
 Original article written here: https://4o4n0tf0und.tech/?p=45
 
-Begin your cyber security adventure with TryHackMe’s Pre Security Learning Path
+<h1>Begin your cyber security adventure with TryHackMe’s Pre Security Learning Path</h1>
 
-AGENDA
+<h2>AGENDA</h2>
 
-In this article, we’ll check out TryHackMe, its features, and more specifically, the Pre Security Learning Path. Here are some of the topics we will cover:
+In this article, we’ll check out TryHackMe, its features, and more specifically, the Pre Security Learning Path. Here are some of the topics we will cover:</h3>
 
-What is TryHackMe?
-Learning Paths
-Pre Security Path
-Modules, Leaderboards, KOTH, and more…
-WHAT IS TRYHACKME?
+<ul>
+  <li>What is TryHackMe?</li>
+  <li>Learning Paths</li>
+  <li>Pre Security Path</li>
+  <li>Modules, Leaderboards, KOTH, and more…</li>
+</ul>
 
-TryHackMe (THM) is a cyber security online training platform. The premise is that it contains “rooms” where you can learn about various cyber security related fields like: networking, operating systems, pentesting, exploitation, reverse engineering, malware forensics, and more. The biggest piece to this is that the training is very hands on. How does that work? Well there are virtual machines within the rooms that you can interact with and put into practice the task that you are learning. There is a ton of research showing that hands-on technique is one of the best methods to learn.
+<h2>WHAT IS TRYHACKME?</h2>
 
-You’re probably thinking, “Okay, sounds cool, but how much does it cost?” Unlike most cyber security online training platforms that cost hundreds or even thousands of dollars, THM is nearly free. At this moment, there are 390 publicly accessible rooms. Of those, 310 are free! About 80% of the content is completely free and only requires an account. You read that right, no subscription or payment, or “type in your credit card to continue” is necessary to learn 80% of the available content. Like me, if you want to dabble into the 20% of the rooms that require a subscription, no worries – it is crazy affordable. Depending on where you live and when you read this, the price may change. I doubt it will change much though, if at all, because I have been a subscriber for almost 2 years now and the price has not changed at all. If you are US based, you have 2 options: monthly for $10 or yearly for $90. Neither option requires any contracts. So, if you want to do monthly for two months, then unsubscribe, you can, and the process is literally a click. I’ve done it myself and it is that simple. Zero hassle. Bonus: I believe they have a student discount too, which requires verification, so check that out if you are one.
+<a href="https://tryhackme.com/">TryHackMe</a> (THM) is a cyber security online training platform. The premise is that it contains “rooms” where you can learn about various cyber security related fields like: networking, operating systems, pentesting, exploitation, reverse engineering, malware forensics, and more. The biggest piece to this is that the training is very hands on. How does that work? Well there are virtual machines within the rooms that you can interact with and put into practice the task that you are learning. There is a ton of research showing that hands-on technique is one of the best methods to learn.
+
+You’re probably thinking, “Okay, sounds cool, but how much does it cost?” Unlike most cyber security online training platforms that cost hundreds or even thousands of dollars, THM is nearly free. At this moment, there are 390 publicly accessible rooms. Of those, 310 are free! About <b>80% of the content is completely free</b> and only requires an account. You read that right, no subscription or payment, or “type in your credit card to continue” is necessary to learn 80% of the available content. Like me, if you want to dabble into the 20% of the rooms that require a subscription, no worries – it is crazy affordable. Depending on where you live and when you read this, the price may change. I doubt it will change much though, if at all, because I have been a subscriber for almost 2 years now and the price has not changed at all. If you are US based, you have 2 options: monthly for $10 or yearly for $90. Neither option requires any contracts. So, if you want to do monthly for two months, then unsubscribe, you can, and the process is literally a click. I’ve done it myself and it is that simple. Zero hassle. Bonus: I believe they have a student discount too, which requires verification, so check that out if you are one.
 
 
 Reading all of that, you’re probably thinking the same thing I thought when I did my research originally – no way! Actually YES way. Don’t take my word for it. A quick google search will show a plethora of resources on reddit, medium, twitter, blogs, you name it that tells you exactly what I told you above.
 
 If you aren’t convinced yet, no problem. Let’s break down some of the specific features THM platform has to offer…
 
-LEARNING PATHS
+<h2>LEARNING PATHS</h2>
 
 THM has something they refer to as Learning Paths. Basically, a learning path is filled with a certain number of rooms that cover topics under a specific umbrella, like Offensive Pentesting or Cyber Defense. Looking below, you can see all the learning paths they currently offer. Some rooms belong to multiple learning paths and some rooms don’t belong to any path. The cool thing about a learning path is that it recommends specific rooms for that topics and it helps keep you on track. You can also jump between paths if you change your mind. Let’s check the Pre Security learning path.
 
 
-PRE SECURITY PATH
+<h2>PRE SECURITY PATH</h2>
 
-The Pre Security learning path has numerous sections. Looking below, you can see what each section covers, and you can see your progress on the right. Currently I completed this learning path, so I can access my certificate proving that I finished all the rooms within this learning path.
+The <a href="https://tryhackme.com/path/outline/presecurity">Pre Security</a> learning path has numerous sections. Looking below, you can see what each section covers, and you can see your progress on the right. Currently I completed this learning path, so I can access my certificate proving that I finished all the rooms within this learning path.
 
 
 If we expand a section, we can see the specific rooms that this section contains:
@@ -46,7 +49,7 @@ Before we move on, I wanted to highlight this specific learning path. The Pre Se
 
 Okay, if you still are not sold, let’s review a few more features that THM has to offer…
 
-MODULES, LEADERBOARDS, KOTH, AND MORE…
+<h2>MODULES, LEADERBOARDS, KOTH, AND MORE…</h2>
 
 Modules are like mini learning paths. They focus on slightly more specific areas and include rooms that cover that topic.
 
@@ -64,7 +67,7 @@ You can also see that each rooms is also categorized by difficulty (Info, Easy, 
 If you are a competitor, like I am, look no further. The Leaderboards feature is great to see where you stack globally or within your country, and if it is all time or monthly. The monthly scores reset every time, while the all time is cumulative.
 
 
-Another FREE features is King of the Hill (KOTH):
+Another FREE features is <a href="https://tryhackme.com/games/koth">King of the Hill</a> (KOTH):
 
 
 Attack & Defend in KOTH is harder than you think, but it is super fun! THM has created an environment that allows you to battle other cyber enthusiasts around the world.
